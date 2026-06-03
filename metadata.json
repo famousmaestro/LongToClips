@@ -1,0 +1,6 @@
+{
+  "name": "ClipCreator",
+  "description": "Convert long-form videos into viral shorts using AI analysis and clipping",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
